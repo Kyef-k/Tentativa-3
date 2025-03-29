@@ -44,7 +44,7 @@
 "personality": "Alexandre, O grande",
 
 "startIntroPart1": "Do coração da Macedônia, onde reis se tornaram lendas, ergue-se um império que molda o destino dos povos. Com a força da conquista e a sabedoria do helenismo, expandimos cultura e comércio, deixando nossa marca na história. Onde marchamos, não apenas dominamos—iluminamos o mundo.",
-                "startIntroPart2": "Forjados na glória de Alexandre e guiados pela chama do conhecimento, os macedônios não apenas conquistam terras, mas também mentes. Onde nossas legiões marcham, a cultura floresce e as rotas comerciais se expandem, unindo o mundo sob o legado do helenismo. Somos mais que um império—somos a ponte entre civilizações.",
+"startIntroPart2": "Forjados na glória de Alexandre e guiados pela chama do conhecimento, os macedônios não apenas conquistam terras, mas também mentes. Onde nossas legiões marcham, a cultura floresce e as rotas comerciais se expandem, unindo o mundo sob o legado do helenismo. Somos mais que um império—somos a ponte entre civilizações",
 "declaringWar": "A glória da Macedônia não será contida! Prepare-se para cair diante da grandiosidade helenística.",
                 "attacked": "Tolice é desafiar os herdeiros de Alexandre. Que os deuses tenham piedade, pois nós não teremos.",
                 "defeated": "Nosso império pode ruir, mas nosso legado jamais será apagado. O helenismo viverá para sempre!",
@@ -58,6 +58,7 @@
 "favoredReligion": "Christianity",
 "uniqueName": "Era Helenística",
 "cities": ["Aegae", "Pela", "Ócrida", "Mieza", "Prydna", "Alexandria", "Bucefala", "Stibera", "Arccoda", "Thessaloniki", "Edessa" ],
-                "spyNames": ["Hetairoi", "Skoteinoi", "Akanthos", "Kryptoi", "Algama", "Skias", "Ephoroi", "Nyxios", "Skotiaphoroi"]
-	}
+                "spyNames": ["Hetairoi", "Skoteinoi", "Akanthos", "Kryptoi", "Algama", "Skias", "Ephoroi", "Nyxios", "Skotiaphoroi"],
+		
+	},
 ]
