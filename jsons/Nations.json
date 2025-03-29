@@ -39,7 +39,7 @@
 "name": "Macedônia",
 "leaderName": "Alexandre, O grande",
 "adjective": ["Macedônico"],
-"startBias": ["coast", "mount"],
+"startBias": ["Coast", "Hill"],
 "preferredVictoryType": "Domination",
 "personality": "Alexandre, O grande",
 
