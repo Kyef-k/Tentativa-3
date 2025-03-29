@@ -2,7 +2,7 @@
 	{
 		"name": "Holodeck",
 		"replaces": "Circus Maximus",
-		"uniqueTo": "A",
+		"uniqueTo": "Aliens",
 		"cost": 480,
 		"happiness": 12,
 		"culture": 12,
