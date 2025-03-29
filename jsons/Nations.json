@@ -53,8 +53,8 @@
 "hateHello": "A sombra de Alexandre não se projeta sobre os fracos. Não nos faça perder tempo.",
 "tradeRequest": "Toda troca deve servir à grandeza da Macedônia. O que você tem a oferecer?",
 
-"outerColor": [255,255,255],
-"innerColor": [213,249,255],
+"outerColor": [255,215,0],
+"innerColor": [0,51,153],
 "favoredReligion": "Christianity",
 "uniqueName": "Era Helenística",
 "cities": ["Aegae", "Pela", "Ócrida", "Mieza", "Prydna", "Alexandria", "Bucefala", "Stibera", "Arccoda", "Thessaloniki", "Edessa" ],
