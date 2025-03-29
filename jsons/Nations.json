@@ -57,7 +57,7 @@
 "innerColor": [0,51,153],
 "favoredReligion": "Christianity",
 "uniqueName": "Era Helenística",
-"uniques": ["<upon conquering a city> Gain [+10]% [Culture] [in all cities], Gain [+10]% [Trade Route]"],
+"uniques": ["[+10]% [Gold] from Trade Routes]", "[+10]% [Culture]"],
 "cities": ["Aegae", "Pela", "Ócrida", "Mieza", "Prydna", "Alexandria", "Bucefala", "Stibera", "Arccoda", "Thessaloniki", "Edessa" ],
 "spyNames": ["Hetairoi", "Skoteinoi", "Akanthos", "Kryptoi", "Algama", "Skias", "Ephoroi", "Nyxios", "Skotiaphoroi"],
 		
