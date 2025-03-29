@@ -34,5 +34,30 @@
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+	},
+	{
+"name": "Macedônia",
+"leaderName": "Alexandre, O grande",
+"adjective": ["Macedônico"],
+"startBias": ["coast", "mount"],
+"preferredVictoryType": "Domination",
+"personality": "Alexandre, O grande",
+
+"startIntroPart1": "Do coração da Macedônia, onde reis se tornaram lendas, ergue-se um império que molda o destino dos povos. Com a força da conquista e a sabedoria do helenismo, expandimos cultura e comércio, deixando nossa marca na história. Onde marchamos, não apenas dominamos—iluminamos o mundo."
+                "startIntroPart2": "Forjados na glória de Alexandre e guiados pela chama do conhecimento, os macedônios não apenas conquistam terras, mas também mentes. Onde nossas legiões marcham, a cultura floresce e as rotas comerciais se expandem, unindo o mundo sob o legado do helenismo. Somos mais que um império—somos a ponte entre civilizações."
+"declaringWar": "A glória da Macedônia não será contida! Prepare-se para cair diante da grandiosidade helenística."
+                "attacked": "Tolice é desafiar os herdeiros de Alexandre. Que os deuses tenham piedade, pois nós não teremos."
+                "defeated": "Nosso império pode ruir, mas nosso legado jamais será apagado. O helenismo viverá para sempre!"
+                "introduction": "Os macedônios estendem a mão do conhecimento e da cultura. Caminharemos como aliados ou como adversários?"
+"neutralHello": "A Macedônia observa com interesse. O que nos trará este encontro?",
+"hateHello": "A sombra de Alexandre não se projeta sobre os fracos. Não nos faça perder tempo.",
+"tradeRequest": "Toda troca deve servir à grandeza da Macedônia. O que você tem a oferecer?"
+    
+"outerColor": [255,255,255],
+"innerColor": [213,249,255],
+"favoredReligion": "Christianity",
+"uniqueName": "Era Helenística",
+"cities": ["Aegae", "Pela", "Ócrida", "Mieza", "Prydna", "Alexandria", "Bucefala", "Stibera", "Arccoda", "Thessaloniki", "Edessa" ],
+                "spyNames": ["Hetairoi", "Skoteinoi", "Akanthos", "Kryptoi", "Algama", "Skias", "Ephoroi", "Nyxios", "Skotiaphoroi"]
 	}
 ]
