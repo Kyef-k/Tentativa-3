@@ -18,7 +18,6 @@
 		"name": "Felipe II, O Caolho",
 		"unitType": "Civilian",
                 "uniqueTo": "Macedônia",
-		"cost": 100,
 		"movement": 3,
 		"uniques": [ 
 		"Cities are razed [2] times as fast",	
