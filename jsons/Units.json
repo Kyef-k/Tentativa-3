@@ -25,7 +25,7 @@
 		"Cities are razed [2] times as fast <for units with [Morale]>",	
                 "[100]% to Flank Attack bonuses <for units with [Morale]>",
 	        "[+50]% Strength bonus for [Military] units within [2] tiles <vs cities>",
-                "Nullifies [Happiness] [Puppeted, Annexed, Razing] <for units with [Morale]>",
+                "Nullifies [Happiness] [in annexed cities, in puppeted cities, in cities being razed,] <for units with [Morale]>",
 ]
 		
 }
