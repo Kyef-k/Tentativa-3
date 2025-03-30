@@ -15,17 +15,19 @@
 		"attackSound": "phasers"
 	}
 	{
-		"name": "Felipe II",
+		"name": "Felipe II, O Caolho",
 		"unitType": "Civilian",
                 "uniqueTo": "Macedônia",
-		"cost": "100"
-		"uniques": [
-                "[100%]% to Flank Attack bonuses",
+		"cost": 100,
+		"movement": 3,
+		"uniques": [ 
+		"As cidades são arrasadas [ 3 ] vezes mais rápido",	
+                "[100%]% to Flank Attack bonuses <para unidades [Military]>",
 		"[+50]% Bônus de força para [Military] unidades dentro de [2] blocos <vs cidades>",
-                "<upon conquering a city> [Nullifies [Happiness] [Puppeted, Annexed, Razing]",
+                " [Nullifies [Happiness] [Puppeted, Annexed, Razing] <upon conquering a city>",
 		"Limited to [1] per Civilization",
 		"Can be earned through combat",
-		"Great Person - [War]", "Unbuildable", "Uncapturable"],
-		"movement": 3
+		"Great Person - [War]", "<Unbuildable", "Uncapturable oculto dos usuários>"],
+		[10]% de força quando empilhado com [mapUnitFilter]",
 }
 ]
