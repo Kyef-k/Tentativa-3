@@ -15,7 +15,7 @@
 		"attackSound": "phasers"
 	}
 	{
-		"name": "Felipe II O Caolho",
+		"name": "Felipe II, O Caolho",
 		"unitType": "Civilian",
                 "uniqueTo": "Macedônia",
 		"movement": 3,
@@ -26,13 +26,13 @@
 		"[-6]% Strength for enemy [Military] units in adjacent [All] tiles"],		
 	}
 	{
-		"name": "Alexandre O Grande",
+		"name": "Alexandre, O Grande",
 		"unitType": "Civilian",
 		"uniqueTo": "Macedônia",
 		"movement": 3,
 		"uniques": [
 		"Great Person - [War]", "Unbuildable <hidden from users>", "Uncapturable <hidden from users>", "Limited to [1] per Civilization",
-		"Can be earned through combat <hidden from users>", "Only available" , "Free [Felipe II, O Caolho] appears",
+		"Can be earned through combat <hidden from users>", "Only available When [Felipe II, O Caolho] appears",
 		"[+50]% Strength bonus for [Military] units within [2] tiles <vs cities>",
 		"[-4]% Strength for enemy [Military] units in adjacent [All] tiles"],
 	}
