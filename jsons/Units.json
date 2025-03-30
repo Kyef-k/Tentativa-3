@@ -21,7 +21,7 @@
 		"cost": 100,
 		"movement": 3,
 		"uniques": [ 
-		"Cities are razed [2] times as fast <upon entering a [City center] tile>",	
+		"Cities are razed [2] times as fast",	
                 "[100]% to Flank Attack bonuses <for units with [Morale]>",
 	        "[+50]% Strength bonus for [Military] units within [2] tiles <vs cities>",
                 "[Nullifies [Happiness] [Puppeted, Annexed, Razing] <upon conquering a city>",
