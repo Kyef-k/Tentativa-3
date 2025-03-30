@@ -21,12 +21,9 @@
 		"movement": 3,
 		"uniques": [ 
 		"Great Person - [War]", "Unbuildable <hidden from users>", "Uncapturable <hidden from users>",
-		"Limited to [1] per Civilization", "Can be earned through combat <hidden from users>",
-		"Cities are razed [2] times as fast <for units with [Morale]>",	
+		"Limited to [1] per Civilization", "Can be earned through combat <hidden from users>",	
                 "[100]% to Flank Attack bonuses <for units with [Morale]>",
 	        "[+50]% Strength bonus for [Military] units within [2] tiles <vs cities>",
-                "Nullifies [Happiness] [in annexed cities, in puppeted cities, in cities being razed,] <for units with [Morale]>",
-]
-		
-}
+		"<upon entering a [City center] tile> Instantly provides [10] [Happiness]"],		
+         }
 ]
