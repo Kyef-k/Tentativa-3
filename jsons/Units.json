@@ -21,12 +21,12 @@
 		"cost": 100,
 		"movement": 3,
 		"uniques": [ 
-		"As cidades são arrasadas [ 3 ] vezes mais rápido",	
-                "[100%]% to Flank Attack bonuses <para unidades [Military]>",
-		"[+50]% Bônus de força para [Military] unidades dentro de [2] blocos <vs cidades>",
-                " [Nullifies [Happiness] [Puppeted, Annexed, Razing] <upon conquering a city>",
+		"Cities are razed [2] times as fast <upon entering a [City center] tile>",	
+                "[100]% to Flank Attack bonuses <for units with [Morale]>",
+	        "[+50]% Strength bonus for [Military] units within [2] tiles <vs cities>",
+                "[Nullifies [Happiness] [Puppeted, Annexed, Razing] <upon conquering a city>",
 		"Limited to [1] per Civilization",
 		"Can be earned through combat",
-		"Great Person - [War]", "<Unbuildable", "Uncapturable oculto dos usuários>"],
+		"Great Person - [War]", "Unbuildable", "Uncapturable <hidden from users>"],
 }
 ]
