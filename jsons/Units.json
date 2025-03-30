@@ -22,8 +22,8 @@
 		"uniques": [ 
 		"Great Person - [War]", "Unbuildable <hidden from users>", "Uncapturable <hidden from users>",
 		"Limited to [1] per Civilization", "Can be earned through combat <hidden from users>",	
-                "[100]% to Flank Attack bonuses <for units with [Morale]>",
+                "[+50]% to Flank Attack bonuses <for units with [Morale]>",
 	        "[+50]% Strength bonus for [Military] units within [2] tiles <vs cities>",
-		"<upon entering a [City center] tile> Instantly provides [10] [Happiness]"],		
+		"<upon entering a [City center] tile> Instantly provides [+10] [Happiness]"],		
          }
 ]
