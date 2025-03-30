@@ -18,7 +18,7 @@
 		"name": "Felipe II",
 		"unitType": "Civilian",
                 "uniqueTo": "Macedônia",
-		"replaces": "<once> Great General",
+		"replaces": "<once Great General>",
 		"uniques": [
                 "[+50]% to Flank Attack bonuses for [Military] units within [2] tiles",
                 "[Nullifies [Happiness] [Puppeted, Annexed, Razing]",
