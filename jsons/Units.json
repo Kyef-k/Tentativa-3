@@ -21,8 +21,10 @@
 		"movement": 3,
 		"uniques": [ 
 		"Great Person - [War]", "Unbuildable <hidden from users>", "Uncapturable <hidden from users>",
-		"Limited to [1] per Civilization", "Can be earned through combat <hidden from users>",	
-                "[+50]% to Flank Attack bonuses <for units with [Morale]>",
-	        "[+50]% Strength bonus for [Military] units within [2] tiles <vs cities>"],		
+		"Can be earned through combat <once> <hidden from users>",
+	        "[+50]% Strength bonus for [Military] units within [2] tiles <vs cities>",
+		"[-4]% Strength for enemy [Military] units in adjacent [All] tiles",
+		"[+50]% Strength bonus for [Military] units within [2] tiles <vs [Wounded] units>",
+		"[-6]% Strength for enemy [Military] units in adjacent [All] tiles",		
          }
 ]
