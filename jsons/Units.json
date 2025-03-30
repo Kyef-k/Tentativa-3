@@ -18,9 +18,12 @@
 		"name": "Felipe II",
 		"unitType": "Civilian",
                 "uniqueTo": "Macedônia",
+		"cost": "100"
 		"uniques": [
-                "[+50]% to Flank Attack bonuses for [Military] units within [2] tiles",
-                "[Nullifies [Happiness] [Puppeted, Annexed, Razing]",
+                "[100%]% to Flank Attack bonuses",
+		"[+50]% Bônus de força para [Military] unidades dentro de [2] blocos <vs cidades>",
+                "<upon conquering a city> [Nullifies [Happiness] [Puppeted, Annexed, Razing]",
+		"Limited to [1] per Civilization",
 		"Can be earned through combat",
 		"Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 3
