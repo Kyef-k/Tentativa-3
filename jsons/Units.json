@@ -25,6 +25,6 @@
 	        "[+50]% Strength bonus for [Military] units within [2] tiles <vs cities>",
 		"[-4]% Strength for enemy [Military] units in adjacent [All] tiles",
 		"[+50]% Strength bonus for [Military] units within [2] tiles <vs [Wounded] units>",
-		"[-6]% Strength for enemy [Military] units in adjacent [All] tiles",		
+		"[-6]% Strength for enemy [Military] units in adjacent [All] tiles"],		
          }
 ]
