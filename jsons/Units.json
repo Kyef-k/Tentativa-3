@@ -19,17 +19,16 @@
 		"unitType": "Civilian",
 		"movement": 3,
 		"uniques": [ 
-		"Great Person - [War] <hidden from users>", "Unbuildable <hidden from users>", "Uncapturable <hidden from users>", "Limited to [1] per Civilization",
+		"Great Person - [War]", "Unbuildable", "Uncapturable", "Limited to [1] per Civilization",
 		"[+50]% Strength bonus for [Military] units within [2] tiles <vs [Wounded] units>",
-		"[-5]% Strength for enemy [Military] units in adjacent [All] tiles",
-		"Comment [teste, essa é uma habilidade legal]"],
+		"[-5]% Strength for enemy [Military] units in adjacent [All] tiles"],
 	}
 	{
 		"name": "Alexandre, O Grande",
 		"unitType": "Civilian",
 		"movement": 3,
 		"uniques": [
-		"Great Person - [War] <hidden from users>", "Unbuildable <hidden from users>", "Uncapturable <hidden from users>", "Limited to [1] per Civilization",
+		"Great Person - [War]", "Unbuildable", "Uncapturable", "Limited to [1] per Civilization",
 		"[+50]% Strength bonus for [Military] units within [2] tiles <vs cities>"],
 	}
 ]
