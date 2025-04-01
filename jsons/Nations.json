@@ -58,8 +58,9 @@
 "favoredReligion": "Christianity",
 "uniqueName": "Era Helenística",
 "uniques": ["[+100]% [Gold] from Trade Routes", "[+100]% [Culture]"],
+"uniqueName": "Dinastia de Comandantes da Macedônia"
+"uniques": [ "Free [o cavalo dele] appears <upon declaring war with a major Civilization>", "Free [o cavalo dele] appears <upon entering a Golden Age>"],		
 "cities": ["Aegae", "Pela", "Ócrida", "Mieza", "Prydna", "Alexandria", "Bucefala", "Stibera", "Arccoda", "Thessaloniki", "Edessa" ],
 "spyNames": ["Hetairoi", "Skoteinoi", "Akanthos", "Kryptoi", "Algama", "Skias", "Ephoroi", "Nyxios", "Skotiaphoroi"],
-		
-	},
-]
+        },
+        ]
