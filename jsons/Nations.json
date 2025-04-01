@@ -56,7 +56,7 @@
 "outerColor": [255,215,0],
 "innerColor": [0,51,153],
 "favoredReligion": "Christianity",
-"uniqueName": "Era Helenística",
+"uniqueName": ["Era Helenística", "grande"]
 "cities": ["Aegae", "Pela", "Ócrida", "Mieza", "Prydna", "Alexandria", "Bucefala", "Stibera", "Arccoda", "Thessaloniki", "Edessa" ],
 "spyNames": ["Hetairoi", "Skoteinoi", "Akanthos", "Kryptoi", "Algama", "Skias", "Ephoroi", "Nyxios", "Skotiaphoroi"]
 	}
