@@ -57,7 +57,7 @@
 "innerColor": [0,51,153],
 "favoredReligion": "Christianity",
 "uniqueName": "Era Helenística e a Dinastia de Comandantes da Macedônia",
-"uniques": ""		
+"unique":"",
 "cities": ["Aegae", "Pela", "Ócrida", "Mieza", "Prydna", "Alexandria", "Bucefala", "Stibera", "Arccoda", "Thessaloniki", "Edessa" ],
 "spyNames": ["Hetairoi", "Skoteinoi", "Akanthos", "Kryptoi", "Algama", "Skias", "Ephoroi", "Nyxios", "Skotiaphoroi"]
 	}
