@@ -33,9 +33,16 @@
 	}
 	{
 		"name": "Sarissas",
-		"uniqueTo": "Macedônia",
+		"uniqueTo": "Macedônia"
+		"unitType": "Sword",
 		"replaces": "Spearman",
+		"movement": 2,
 		"strength": 14,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"promotions": ["Falange"],
 	}
 ]
