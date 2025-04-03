@@ -33,7 +33,7 @@
 	}
 	{
 		"name": "Sarissas",
-		"unitType": ["Sword", "Archery"],
+		"unitType": "Sword",
 		"replaces": "Spearman",
 		"uniqueTo": "Macedônia"
 		"movement": 2,
