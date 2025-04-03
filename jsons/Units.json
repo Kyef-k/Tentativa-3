@@ -31,4 +31,11 @@
 		"Great Person - [War]", "Unbuildable", "Uncapturable", "Limited to [1] per Civilization",
 		"[+50]% Strength bonus for [Military] units within [2] tiles <vs cities>"],
 	}
+	{
+		"name": "Sarissas",
+		"uniqueTo": "Macedônia",
+		"replaces": "Spearman",
+		"strength": 14,
+		"promotions": ["Falange"],
+	{
 ]
