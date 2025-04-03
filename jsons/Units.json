@@ -33,11 +33,12 @@
 	}
 	{
 		"name": "Sarissas",
-		"unitType": "Sword",
+		"unitType": "Sword, Archery",
 		"replaces": "Spearman",
 		"uniqueTo": "Macedônia"
 		"movement": 2,
 		"strength": 14,
+		"rangedStrength": 14,
 		"cost": 56,
 		"requiredTech": "Bronze Working",
 		"upgradesTo": "Pikeman",
