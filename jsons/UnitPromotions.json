@@ -10,7 +10,7 @@
        "uniques": ["[+15]% Strength <when attacking>"],
        "prerequisites": ["Falange I"],
        "unitTypes": ["Sword"],
-       "column": 27,
+       "column": 408,
        "row": 2,
     },
     {
@@ -18,7 +18,7 @@
        "uniques": ["[+20]% Strength <when attacking>"],
        "prerequisites": ["Falange II"],
        "unitTypes": ["Sword"],
-        "column": 27,
+        "column": 408,
         "row": 3,
     },
 ]
