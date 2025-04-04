@@ -1,4 +1,5 @@
 [
+    //Macedônia 
     {
        "name": "Falange I",
        "uniques":["[+15]% Strength <when attacking>"],
@@ -25,7 +26,7 @@
        "name": "Bucéfalo",
        "uniques":["[+50]% Strength when stacked with [Alexandre, O grande]"],
        "unitTypes": ["Mounted"],
-       "column": 409,
-       "row": 1
+       "column": 408,
+       "row": 4
     },
 ]
