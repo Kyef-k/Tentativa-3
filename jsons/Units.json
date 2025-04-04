@@ -42,7 +42,7 @@
 		"requiredTech": "Bronze Working",
 		"upgradesTo": "Pikeman",
 		"obsoleteTech": "Civil Service",
-		"promotions": ["Falange"],
+		"promotions": ["Falange I"],
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 	}
 ]
