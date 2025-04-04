@@ -21,5 +21,19 @@
 		"happiness": 2,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
-	}
+	},
+	{
+		"name": "Palácio de Vergina",
+		"replaces": "Palace",
+		"uniqueTo": "Macedônia",
+		"isNationalWonder": true,
+		"production": 3,
+		"science": 3,
+		"gold": 3,
+		"culture": 1,
+		"happiness": 1,
+		"cityStrength": 3,
+		"cost": 1,
+		"uniques": ["Indicates the capital city"]
+	},
 ]
