@@ -2,5 +2,7 @@
     {
        "name": "Falange I",
        "uniques":["[+5]% Strength <when attacking>"],
+       "column": 27,
+       "row": 1,
     },
 ]
