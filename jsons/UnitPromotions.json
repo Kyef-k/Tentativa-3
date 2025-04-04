@@ -10,7 +10,7 @@
        "name": "Falange II",
        "uniques": ["[+10]% Strength <when attacking>"],
        "prerequisites": ["Falange I"],
-       "unitTypes": "[Sword"],
+       "unitTypes": ["Sword"],
        "column": 27,
        "row": 2,
     },
