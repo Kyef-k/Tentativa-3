@@ -2,7 +2,7 @@
     {
        "name": "Falange I",
        "uniques":["[+5]% Strength <when attacking>"],
-       "unitTypes": "Sword",
+       "unitTypes": ["Sword"],
        "column": 408,
        "row": 1
     },
