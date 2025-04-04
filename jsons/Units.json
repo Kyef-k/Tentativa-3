@@ -19,7 +19,7 @@
 		"unitType": "Civilian",
 		"movement": 3,
 		"uniques": [ 
-		"Great Person - [War]", "Unbuildable", "Uncapturable", "Limited to [1] per Civilization",
+		"Unbuildable", "Uncapturable", "Limited to [1] per Civilization",
 		"[+50]% Strength bonus for [Military] units within [2] tiles <vs [Wounded] units>",
 		"[-5]% Strength for enemy [Military] units in adjacent [All] tiles"],
 	}
@@ -28,7 +28,7 @@
 		"unitType": "Civilian",
 		"movement": 3,
 		"uniques": [
-		"Great Person - [War]", "Unbuildable", "Uncapturable", "Limited to [1] per Civilization",
+		"Unbuildable", "Uncapturable", "Limited to [1] per Civilization",
 		"[+50]% Strength bonus for [Military] units within [2] tiles <vs cities>"],
 	}
 	{
