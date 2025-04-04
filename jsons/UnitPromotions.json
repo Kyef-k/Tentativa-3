@@ -3,9 +3,9 @@
        "name": "Falange I",
        "uniques":["[+15]% Strength <when attacking>"],
        "column": 408,
-       "row": 1
+       "row": 1,
     },
-        {
+    {
        "name": "Falange II",
        "uniques": ["[+15]% Strength <when attacking>"],
        "prerequisites": ["Falange I"],
@@ -20,5 +20,12 @@
        "unitTypes": ["Sword"],
         "column": 408,
         "row": 3,
+    },
+    {
+       "name": "Bucéfalo",
+       "uniques":["[+50]% Strength when stacked with [Alexandre, O grande]"],
+       "unitTypes": ["Mounted"],
+       "column": 409,
+       "row": 1
     },
 ]
