@@ -2,9 +2,6 @@
     {
        "name": "Falange I",
        "uniques":["[+5]% Strength <when attacking>"],
-       "prerequisites": ["Falange I"],
-       "column": 27,
-       "row": 1,
     },
     {
        "name": "Falange II",
