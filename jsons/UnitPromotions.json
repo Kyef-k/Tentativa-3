@@ -6,20 +6,4 @@
        "column": 408,
        "row": 1
     },
-     {
-       "name": "Falange II",
-       "uniques": ["[+10]% Strength <when attacking>"],
-       "prerequisites": ["Falange I"],
-       "unitTypes": "Sword",
-       "column": 408,
-       "row": 2
-    },
-    {
-       "name": "Falange III",
-       "uniques": ["[+15]% Strength <when attacking>"],
-       "prerequisites": ["Falange II"],
-       "unitTypes": "Sword",
-        "column": 408,
-        "row": 3
-    },
 ]
