@@ -1,0 +1,6 @@
+
+ConstructionIcons.png
+size: 200, 800
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
